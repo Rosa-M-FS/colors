@@ -30,6 +30,17 @@
   border-style: solid;
   color: white;
 }
+/*Para el className={`box ${color}`}*/
+.box.red { border-color: red; }
+.box.green { border-color: green; }
+.box.pink { border-color: pink; }
+.box.yellow { border-color: yellow; }
+.box.purple { border-color: purple; }
+.box.white { border-color: white; }
+.box.blue { border-color: blue; }
+.box.aqua { border-color: aqua; }
+.box.olive { border-color: olive; }
+
 
 /* Estilos para el input */
 input {
